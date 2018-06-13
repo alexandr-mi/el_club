@@ -1,0 +1,13 @@
+// Normalize Styles
+@import 'node_modules/normalize.css/normalize';
+
+// Global
+@import "./global/main";
+
+// Import Modules
+@import '../_modules/header/main';
+@import '../_modules/hero/main';
+@import '../_modules/estamos/main';
+@import '../_modules/white/main';
+@import '../_modules/footer/main';
+
